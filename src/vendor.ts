@@ -6,8 +6,8 @@ import '@angular/common';
 import '@angular/http';
 import '@angular/router';
 import './stimulsoft/stimulsoft.viewer.office2013.whiteblue.css';
-import './stimulsoft/stimulsoft.reportN';
-import './stimulsoft/stimulsoft.viewerN';
+import './stimulsoft/stimulsoft.reports';
+import './stimulsoft/stimulsoft.viewer';
 import './persian-datepicker/js-persian-cal';
 
 // RxJS
